@@ -1,3 +1,6 @@
+[![Years Badge](https://badges.pufler.dev/years/Ghoelian)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Ghoelian)](https://badges.pufler.dev)
+
 ### Hi there, I'm Julian
 
 ## I'm a back-end developer
