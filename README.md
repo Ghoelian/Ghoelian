@@ -35,7 +35,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&show_icons=true&hide_border=true" />
+<img alt="Ghoelian's GitHub stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true" />
+<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact" />
+<img alt="Ghoelian's trophies" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
