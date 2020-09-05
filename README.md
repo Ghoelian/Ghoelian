@@ -30,14 +30,11 @@
 - <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub
 - <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Bash
 
-<br />
-<br />
-
 ---
 
 <img alt="Ghoelian's GitHub stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true" />
-<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact" />
-<img alt="Ghoelian's trophies" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
+<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact" /> <br />
+<img alt="Ghoelian's trophies" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7" />
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
