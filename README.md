@@ -4,7 +4,7 @@
 ### Hi there, I'm Julian
 
 ## I'm a back-end developer
-- I'm currently looking for a job as back-end developer
+- I'm currently employed at ASUS Holland
 - You can find some of my projects pinned below
 
 ### Connect with me:
