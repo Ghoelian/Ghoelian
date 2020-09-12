@@ -32,8 +32,8 @@
 
 ---
 
-<img alt="Ghoelian's GitHub stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true&show_icons=true&theme=darcula" />
-<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact&theme=darcula" /> <br />
+<img alt="Ghoelian's GitHub stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true&show_icons=true&theme=buefy" />
+<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact&theme=buefy" /> <br />
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
