@@ -1,5 +1,7 @@
 [![Years Badge](https://badges.pufler.dev/years/Ghoelian)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Ghoelian)](https://github.com/Ghoelian?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=Ghoelian&color=brightgreen)](https://github.com/Ghoelian)
+![](https://hit.yhype.halp.im/github/profile?user_id=33285224)
 
 ### Hi there, I'm Julian
 
