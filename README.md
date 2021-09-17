@@ -3,9 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=Ghoelian&color=brightgreen)](https://github.com/Ghoelian)
 ![](https://hit.yhype.me/github/profile?user_id=33285224)
 
-### Hi there, I'm Julian
-
-## I'm a back-end developer
+## I'm a back- and front-end developer
 - I'm currently employed at ASUS Holland
 - You can find some of my projects pinned below
 
