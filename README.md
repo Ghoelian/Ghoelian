@@ -4,7 +4,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=33285224)
 
 ## I'm a back- and front-end developer
-- I'm currently employed at ASUS Holland
+- I'm currently employed at Eventree Ticket Solutions & More
 - You can find some of my projects pinned below
 
 ### Connect with me:
