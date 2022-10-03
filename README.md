@@ -1,7 +1,12 @@
-[![Years Badge](https://badges.pufler.dev/years/Ghoelian)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Ghoelian)](https://github.com/Ghoelian?tab=repositories)
+[![Years Badge](https://badges.strrl.dev/years/Ghoelian)](https://github.com/Ghoelian)
+[![Repos Badge](https://badges.strrl.dev/repos/Ghoelian)](https://github.com/Ghoelian?tab=repositories)
+[![Contributions Badge](https://badges.strrl.dev/contributions/monthly/Ghoelian)](https://github.com/Ghoelian)
+[![Visits Badge](https://badges.strrl.dev/visits/Ghoelian/Ghoelian)](https://github.com/Ghoelian)
+
+<!---
 [![](https://komarev.com/ghpvc/?username=Ghoelian&color=brightgreen)](https://github.com/Ghoelian)
 ![](https://hit.yhype.me/github/profile?user_id=33285224)
+--->
 
 ## I'm a back- and front-end developer
 - I'm currently employed at Eventree Ticket Solutions & More
@@ -34,8 +39,13 @@
 
 ---
 
-<img alt="Ghoelian's GitHub stats" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true&show_icons=true&theme=buefy" />
-<img alt="Ghoelian's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoelian&layout=compact&theme=buefy" /> <br />
+[![Ghoelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghoelian&theme=dark&count_private=true)](https://git.io/streak-stats)
+
+[![Ghoelian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ghoelian&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ghoelian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghoelian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
