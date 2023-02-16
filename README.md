@@ -5,7 +5,6 @@
 
 <!---
 [![](https://komarev.com/ghpvc/?username=Ghoelian&color=brightgreen)](https://github.com/Ghoelian)
-![](https://hit.yhype.me/github/profile?user_id=33285224)
 --->
 
 ## I'm a full-stack developer at Eventree/Paytree
@@ -50,3 +49,5 @@
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
+
+![](https://hit.yhype.me/github/profile?user_id=33285224)
