@@ -9,7 +9,7 @@
 
 ### I have migrated to [Codeberg](https://codeberg.org/Ghoelian)
 
-## I'm a full-stack developer at Eventree/Paytree
+## I'm a full-stack developer at Arcady
 - You can find some of my projects pinned below
 
 ### Connect with me:
