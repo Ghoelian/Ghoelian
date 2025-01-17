@@ -9,7 +9,7 @@
 
 ### I have migrated to [Codeberg](https://codeberg.org/Ghoelian)
 
-## I'm a full-stack developer at Arcady
+## I'm a full-stack developer at Zonneplan
 - You can find some of my projects pinned below
 
 ### Connect with me:
@@ -41,13 +41,9 @@
 
 ---
 
-[![Ghoelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghoelian&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ghoelian&theme=dark&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ghoelian&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 [![Ghoelian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ghoelian&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ghoelian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghoelian&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://julianvos.nl
 [linkedin]: https://www.linkedin.com/in/julian-vos-b09783150/
