@@ -41,7 +41,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghoelian&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ghoelian&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Ghoelian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ghoelian&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
